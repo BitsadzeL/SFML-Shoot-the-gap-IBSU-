@@ -1,3 +1,4 @@
+//Used chatGPT in the process of making this game, whole code is not ours :)
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <vector>
