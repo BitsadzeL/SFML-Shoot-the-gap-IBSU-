@@ -213,7 +213,7 @@ public:
                 update();
                 render();
             }
-            std::cout << score << std::endl;
+            std::cout << "Your Score is: " << score << std::endl;
         }
         catch (const std::exception& e) {
             std::cerr << "Exception occurred: " << std::endl;
