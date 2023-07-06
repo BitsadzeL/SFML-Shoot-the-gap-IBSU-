@@ -1,6 +1,6 @@
 # SFML-Shoot-the-gap-IBSU-
 
-Hello, This is your first C++ SFML Game Project at IBSU.
+Hello, This is our first C++ SFML Game Project at IBSU.
 
 Main Idea:
 
