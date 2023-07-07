@@ -4,7 +4,7 @@
 //And also the whole code is nout ours. When we encountered some errors or got stuck while writing functions, we asked ChatGPT 
 // and it suggested us solution in theoretical or code way.
 // Shoot the bullet, moving the player and check the collision is among them.
-//OOP model and Game idea is ours :)
+//OOP model and game idea is ours :)
 
 
 #include <SFML/Graphics.hpp>
